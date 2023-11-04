@@ -4,7 +4,7 @@
 
 A data enthusiast with nearly 2 years of experience in the data field. I'm dedicated to helping organizations modernize their data practices, enabling them to collect, organize, and analyze data effectively while integrating AI into their operations. I believe in the power of data-driven decision-making and the potential of AI to transform businesses.
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/Hadeer-Mamdouh) and check out my projects on [GitHub](https://github.com/hadeer98).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/Hadeer-Mamdouh).
 
 
 ### 🚀 Skills
