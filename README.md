@@ -36,6 +36,7 @@ I'm proficient in a variety of programming languages, databases, tools, and libr
 - [Book Clustering (Clustering-Is-All-You-Need)](https://github.com/hadeer98/MEng-uOttawa-AI-DS/tree/8a25de18ab67a6d1050fa07dc8578a246212c203/First%20Term/Natural%20language%20Processing%20(NLP)/Assignment%203%20Clustring)
 - [HealthCare_chatbot](https://github.com/hadeer98/MEng-uOttawa-AI-DS/tree/8a25de18ab67a6d1050fa07dc8578a246212c203/First%20Term/Natural%20language%20Processing%20(NLP)/HealthCarechatbot)
 - [Text partitioning](https://github.com/hadeer98/MEng-uOttawa-AI-DS/tree/8a25de18ab67a6d1050fa07dc8578a246212c203/First%20Term/Natural%20language%20Processing%20(NLP)/NLP_Assignment%201_Sampling)
+- [Answering Question chatbot](https://github.com/hadeer98/question-AI-project.git)
 
 
 ### Computer Vision (CV):
