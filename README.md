@@ -23,6 +23,7 @@ I'm proficient in a variety of programming languages, databases, tools, and libr
 - [Liver cancer biomarkers Identification](https://github.com/hadeer98/MEng-uOttawa-AI-DS/tree/4b8f5d56f99fcd6045dd297684730b04a03cb1c3/First%20Term/Fund.%20of%20Applied%20Data%20Science%20using%20R/Final%20Project)
 - [Build RDBMS using SQL Server](https://github.com/hadeer98/MEng-uOttawa-AI-DS/tree/4b8f5d56f99fcd6045dd297684730b04a03cb1c3/First%20Term/Fund.%20of%20Applied%20Data%20Science%20using%20R/Assignment%201%20SQL)
 - [Build Data Warehousing using SQL Server and R Language](https://github.com/hadeer98/MEng-uOttawa-AI-DS/tree/4b8f5d56f99fcd6045dd297684730b04a03cb1c3/First%20Term/Fund.%20of%20Applied%20Data%20Science%20using%20R/Assignment%201%20SQL)
+- [Optimizing Employee Shuttle Stops Solution](https://github.com/hadeer98/employees_and_bus_stops.git)
 
 ### Machine Learning (ML):
 - [Network Intrusion Detection using Deep Learning](https://github.com/hadeer98/MEng-uOttawa-AI-DS/tree/4b8f5d56f99fcd6045dd297684730b04a03cb1c3/First%20Term/Machine%20Learning/Final%20Project)
